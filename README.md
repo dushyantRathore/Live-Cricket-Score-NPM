@@ -1,0 +1,1 @@
+A npm package to get the live cricket scores.

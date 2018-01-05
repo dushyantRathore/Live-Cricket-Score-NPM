@@ -1,0 +1,15 @@
+{
+  "name": "live-cricket-scores",
+  "version": "1.0.0",
+  "description": "A package for showing the live cricket scores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live",
+    "scores"
+  ],
+  "author": "Dushyant Rathore <dushyant.bgs@gmail.com>",
+  "license": "ISC"
+}
